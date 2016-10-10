@@ -4,6 +4,8 @@
 
 Demo code for the 2016 Asynchronous Server Technology code
 
+Everything is developped in [CoffeeScript](http://coffeescript.org)
+
 ## Setup 
 
 ```
