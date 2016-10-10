@@ -15,12 +15,16 @@ chmod +x bin/*
 
 ```
 bin/start
+# or 
+npm start
 ```
 
 ## Test
 
 ```
 bin/test
+# or 
+npm test
 ```
 
 Tests use [mocha](https://mochajs.org) & [should](https://shouldjs.github.io)
